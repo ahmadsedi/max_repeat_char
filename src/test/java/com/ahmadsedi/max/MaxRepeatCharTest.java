@@ -1,4 +1,4 @@
-package com.ahmadsedi.interview.max;
+package com.ahmadsedi.max;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

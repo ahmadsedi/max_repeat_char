@@ -1,4 +1,4 @@
-package com.ahmadsedi.interview.max;
+package com.ahmadsedi.max;
 
 import java.util.Arrays;
 import java.util.Optional;
